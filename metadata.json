@@ -1,0 +1,5 @@
+{
+  "name": "Lyricist's Pad",
+  "description": "A minimalist, offline-first songwriting application for writing, cleaning, and analyzing lyrics. Built with future AI integration in mind.",
+  "requestFramePermissions": []
+}
